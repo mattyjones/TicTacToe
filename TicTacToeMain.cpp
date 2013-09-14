@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------/
  *																		  /
- *Project: Project 1 Tic Tac Toe										  /
+ *Project: Tic Tac Toe										  /
  *File: TicTacToeMain.cpp												  /
  *																		  /
  *Abstract:																  /
